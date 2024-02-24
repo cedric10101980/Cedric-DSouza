@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Cedric Simon D'Souza</h1>
-<h3 align="center">I am a seasoned full-stack developer with over 20 years of experience in the software industry. My expertise spans both front-end and back-end development, making me a versatile and valuable asset to any team.
+<p>I am a seasoned full-stack developer with over 20 years of experience in the software industry. My expertise spans both front-end and back-end development, making me a versatile and valuable asset to any team.
 
  * **Languages and Frameworks:**
    - **Java:** I have extensive experience working with Java, including Spring Boot and WebFlux.
@@ -36,7 +36,7 @@ public class FullStackDeveloperBio {
     public static void main(String[] args) {
         System.out.println("Thank you for reading my bio!");
     }
-}</h3>
+}</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsouzac-avaya&label=Profile%20views&color=0e75b6&style=flat" alt="dsouzac-avaya" /> </p>
 
